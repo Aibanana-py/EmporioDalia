@@ -1,0 +1,137 @@
+{
+  "listado_restorant": [
+    {
+      "id": 1,
+      "plato": "Michiburger",
+      "carta": {
+        "precio": 7990,
+        "preparacion": {
+          "categoria": "Carnes",
+          "codigo": 1234,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Carlos Herrera"
+          }
+        },
+        "reservas": {
+          "mesas": "600 123 4567",
+          "eventos": "800 123 456"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "plato": "Michipasta Rose",
+      "carta": {
+        "precio": 8990,
+        "preparacion": {
+          "categoria": "Pastas",
+          "codigo": 5678,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Marcela Soto"
+          }
+        },
+        "reservas": {
+          "mesas": "600 234 5678",
+          "eventos": "800 234 567"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "plato": "Mousse Michi Fresa",
+      "carta": {
+        "precio": 3790,
+        "preparacion": {
+          "categoria": "Postres",
+          "codigo": 910,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Andrés Muñoz"
+          }
+        },
+        "reservas": {
+          "mesas": "600 345 6789",
+          "eventos": "800 345 678"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "plato": "Limonadas Sakura",
+      "carta": {
+        "precio": 4590,
+        "preparacion": {
+          "categoria": "Bebestible",
+          "codigo": 1357,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Valentina Rojas"
+          }
+        },
+        "reservas": {
+          "mesas": "600 456 7890",
+          "eventos": "800 456 789"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "plato": "Donas Gatito",
+      "carta": {
+        "precio": 3790,
+        "preparacion": {
+          "categoria": "Postres",
+          "codigo": 4567,
+          "porcion": "Familiar",
+          "chef": {
+            "nombre": "Paula González"
+          }
+        },
+        "reservas": {
+          "mesas": "600 567 8901",
+          "eventos": "800 567 890"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "plato": "Gatucciono",
+      "carta": {
+        "precio": 5990,
+        "preparacion": {
+          "categoria": "Bebestible",
+          "codigo": 2345,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Fernanda Díaz"
+          }
+        },
+        "reservas": {
+          "mesas": "600 678 9012",
+          "eventos": "800 678 901"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "plato": "Menú Ejecutivo",
+      "carta": {
+        "precio": 8990,
+        "preparacion": {
+          "categoria": "Menús",
+          "codigo": 123,
+          "porcion": "Individual",
+          "chef": {
+            "nombre": "Rodrigo Silva"
+          }
+        },
+        "reservas": {
+          "mesas": "600 789 0123",
+          "eventos": "800 789 012"
+        }
+      }
+    }
+  ]
+}
