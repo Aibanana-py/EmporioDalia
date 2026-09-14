@@ -1,3 +1,5 @@
 ## Nota para el funcionamiento
+##Descargar archivos y luego
 ##se debe usar el comando npm install en la terminal de la carpeta sitio_react_vite
 ## para que la pagina corra y luego para correr la pagina hay que usar npm run dev y asi se ejecutara correctamente 
+
