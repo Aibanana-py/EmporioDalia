@@ -27,14 +27,14 @@ Este proyecto fue construido del lado del cliente haciendo uso de:
 
 Para visualizar el proyecto en tu entorno local, sigue estos pasos:
 
-1. **Clona este repositorio:**
+## 1. **Clona este repositorio:**
    ```bash
    git clone [https://github.com/Aibanana-py/EmporioDalia.git](https://github.com/Aibanana-py/EmporioDalia.git)
-  cd EmporioDalia
-2.**Instala las dependecias necesarias:**
-  npm install
-3.**Inicia el Servidor de desarrollo:**
+   cd EmporioDalia
+## 2.**Instala las dependecias necesarias:**
+     npm install
+## 3.**Inicia el Servidor de desarrollo:**
   npm start
-Nota: Si el proyecto fue inicializado con Vite, utiliza el comando: npm run dev
-4.**Abre tu navegador:**
-Ingresa a http://localhost:3000 (o el puerto que te indique la terminal) para ver el sitio en funcionamiento.
+   Nota: Si el proyecto fue inicializado con Vite, utiliza el comando: npm run dev
+## 4.**Abre tu navegador:**
+   Ingresa a http://localhost:3000 (o el puerto que te indique la terminal) para ver el sitio en funcionamiento.
