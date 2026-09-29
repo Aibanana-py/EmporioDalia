@@ -29,7 +29,7 @@ Para visualizar el proyecto en tu entorno local, copia y pega el siguiente bloqu
 
 ```bash
 # 1. Clona este repositorio
-git clone https://github.com/Aibanana-py/EmporioDalia.git
+git clone [https://github.com/Aibanana-py/EmporioDalia.git](https://github.com/Aibanana-py/EmporioDalia.git)
 
 # 2. Navega al directorio del proyecto
 cd EmporioDalia
@@ -39,10 +39,13 @@ npm install
 
 # 4. Inicia el servidor de desarrollo
 npm start
-Nota: Si el proyecto fue inicializado con Vite, utiliza el comando npm run dev en lugar de npm start.
 
-# 5. Abre tu navegador:
-Ingresa a http://localhost:3000 (o el puerto que te indique la terminal) para ver el sitio en funcionamiento.```
+> **Nota:** Si el proyecto fue inicializado con Vite, utiliza el comando `npm run dev` en lugar de `npm start`.
 
-Ivana Vidal Lizana
-GitHub: @Aibanana-py
+**5. Abre tu navegador:** 
+Ingresa a `http://localhost:3000` (o el puerto que te indique la terminal) para ver el sitio en funcionamiento.
+```
+## 👩‍💻 Autora
+
+**Ivana Vidal Lizana**
+* GitHub: [@Aibanana-py](https://github.com/Aibanana-py)
