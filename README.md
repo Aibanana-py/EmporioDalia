@@ -29,7 +29,7 @@ Para visualizar el proyecto en tu entorno local, sigue estos pasos:
 
 ## 1- **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/Aibanana-py/EmporioDalia.git](https://github.com/Aibanana-py/EmporioDalia.git)
+   git clone [https://github.com/Aibanana-py/EmporioDalia.git](https://github.com/Aibanana-py/EmporioDalia.git)```
    cd EmporioDalia
 ## 2-**Instala las dependecias necesarias:**
      npm install
